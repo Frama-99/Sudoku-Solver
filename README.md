@@ -12,6 +12,7 @@ with 9 numbers on each line, delimited by a space. `0` represents an empty
 space to be filled out. 
 
 Example:
+~~~
 0 7 0 0 4 2 0 0 0
 0 0 0 0 0 8 6 1 0
 3 9 0 0 0 0 0 0 7
@@ -21,6 +22,7 @@ Example:
 8 0 0 0 0 0 0 7 6
 0 5 4 8 0 0 0 0 0
 0 0 0 6 1 0 0 5 0
+~~~
 
 Use `-h` or `--help` to view command line options.
 
